@@ -34,3 +34,8 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# Output:
+# zzz is missing letters abcdefghijklmnopqrstuvwxy
+# subdermatoglyphic uses all the letters
+# the quick brown fox jumps over the lazy dog is missing letters c

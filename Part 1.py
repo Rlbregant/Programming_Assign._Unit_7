@@ -33,3 +33,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# Output:
+# zzz has duplicates
+# dog has no duplicates
+# bookkeeper has duplicates
+# subdermatoglyphic has no duplicates
+# subdermatoglyphics has duplicates
